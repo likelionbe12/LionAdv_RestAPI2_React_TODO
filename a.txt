@@ -1,0 +1,6 @@
+1. react server 가동했나요? (기존 BE 서버와 별도)
+2. 자동 로그인 설정을 완료하셨나요? (authorized_keys에 등록)
+3. vscode로 새로운 서버(react server)에 접속이 되셨나요?
+4. my-todo-app을 vscode로 여셨나요?
+
+-- 1시 40분까지 체크하시고 잘 안되는 부분 있으면 이야기 해주세요!
